@@ -13,4 +13,3 @@
    $name="Tom";//variable declare
     echo "The cat ".$name." is running";
 ?><hr>
-

@@ -4,7 +4,7 @@
 
 <body bgcolor="gold">
     <center>
-        <h1>Order Form</h1><br>
+        <h1>Receive Form</h1><br>
         <p>Food name</p>
         <input type="text" name="food" readonly
         value="<?php echo$_POST['food']; ?>"
